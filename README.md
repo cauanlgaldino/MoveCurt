@@ -10,6 +10,8 @@ The goal of the project is to explore the integration between software and embed
 
 The solution uses an ESP32 to control a motor and communicates with a client application using message-based communication.
 
+
+
 ## How it Works
 
 - The ESP32 connects to a Wi-Fi network
