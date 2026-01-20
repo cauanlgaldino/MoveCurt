@@ -1,6 +1,6 @@
 # MoveCurt
 
-MoveCurt is an academic project developed during the **MCMP course at IFCE (2024.2)**.  
+MoveCurt is an academic project developed during the **Microcontrollers and Microprocessors (MCMP) 2024.2 course at IFCE**.  
 The goal of the project is to explore the integration between software and embedded devices through a simple curtain automation system.
 
 The solution uses an ESP32 to control a motor and communicates with a client application using message-based communication.
