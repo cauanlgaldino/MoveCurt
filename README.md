@@ -9,9 +9,7 @@ The solution uses an ESP32 to control a motor and communicates with a client app
   <img src="docs/images/control-screen.png" width="300" />
   <img src="docs/images/wifi-setup-screen.png" width="300" />
 </p>
-
---
-
+---
 ## How it Works
 
 - The ESP32 connects to a Wi-Fi network
